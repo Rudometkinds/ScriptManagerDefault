@@ -1,0 +1,1 @@
+console('SomeContent from file')
