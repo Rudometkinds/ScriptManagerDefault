@@ -1,1 +1,0 @@
-console('SomeContent from file')

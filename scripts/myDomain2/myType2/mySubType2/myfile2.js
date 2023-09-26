@@ -1,1 +1,0 @@
-console('some message2')
