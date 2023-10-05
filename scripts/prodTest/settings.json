@@ -1,0 +1,20 @@
+{
+  "category": "marketing",
+  "handleParameters": true,
+  "prodUrlRegEx": "/^http[s]?:\\/\\/home\\.breinify\\.ai(?:\\/.*|)$/i",
+  "testUrlRegEx": "/^http[s]?:\\/\\/(?:(?:home-test\\.breinify\\.ai)|(?:breinify-.+\\.hs-sites\\.com\\/breinify-retail-demo))(?:\\/.*|)$/i",
+  "liveApiKey": "AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA",
+  "testApiKey": "AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA",
+  "scriptOrder": {
+    "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-activities.js": {},
+    "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-journey.js": {},
+    "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-assets.js": {},
+    "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-opt-status.js": {},
+    "utilities/common.js": {},
+    "utilities/config.js": {},
+    "components/carousel/carousel.js": {},
+    "components/staticCardSeries/staticCardSeries.js": {},
+    "utilities/dataConfig.js": {},
+    "utilities/ajaxWatchDog.js": {}
+  }
+}
