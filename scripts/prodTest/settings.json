@@ -3,8 +3,8 @@
   "handleParameters": true,
   "prodUrlRegEx": "/^http[s]?:\\/\\/home\\.breinify\\.ai(?:\\/.*|)$/i",
   "testUrlRegEx": "/^http[s]?:\\/\\/(?:(?:home-test\\.breinify\\.ai)|(?:breinify-.+\\.hs-sites\\.com\\/breinify-retail-demo))(?:\\/.*|)$/i",
-  "liveApiKey": "AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA",
-  "testApiKey": "AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA-AAAA",
+  "liveApiKey": "F541-B5C1-0DAF-4DB9-BFF5-2A22-D446-0703",
+  "testApiKey": "F541-B5C1-0DAF-4DB9-BFF5-2A22-D446-0703",
   "scriptOrder": {
     "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-activities.js": {},
     "github:///Breinify/brein-api-library-javascript-browser.git/dist/breinify-journey.js": {},
